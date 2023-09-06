@@ -161,7 +161,7 @@ html {
 
 /*Start Landing*/
 .landing {
-    background-image: url(media/686924.jpg);
+    background-image: url(/media/686924.jpg);
     background-size: cover;
     height: calc(100vh - 64px);
     position: relative;
